@@ -5,7 +5,7 @@ import skill2 from "../assets/certifications.webp";
 
 const SkillsSection = () => {
   return (
-    <section className="bg-white py-12 max-w-5xl mx-auto  px-4">
+    <section className="bg-white py-20 max-w-5xl mx-auto px-4">
       <div className="max-w-7xl mx-auto px-4 flex flex-col lg:flex-row gap-8">
         <div className="lg:w-1/3 flex flex-col justify-center">
           <p className="text-black font-medium text-2xl sm:text-4xl md:text-5xl mb-4">
